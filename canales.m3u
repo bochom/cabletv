@@ -485,14 +485,29 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-0,700-HBO
-rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
-#EXTINF:-0,702-HBO 2
-http://31.220.41.107:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
-#EXTINF:-0,704-HBO FAMILY
-http://31.220.40.108:80/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
-#EXTINF:-0,706-HBO PLUS
-http://31.220.40.100:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
-#EXTINF:-0,708-HBO SIGNATURE
-http://31.220.40.100:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
+HBO
+http://ift.tt/1fzk3AI
 
+HBO LATINO / ENG
+http://ift.tt/1LstMaG
+
+
+
+#EXTM3U
+#EXTINF:-1,HBO
+http://ift.tt/1IF1KGA
+
+#EXTINF:-1,HBO Family
+http://ift.tt/1H4lTRM
+
+#EXTINF:-1,HBO 2
+http://ift.tt/1IF1KGD
+
+#EXTINF:-1,HBO Plus
+http://ift.tt/1H4lSgF
+
+#EXTINF:-1,HBO Plus 2
+http://ift.tt/1IF1KWS
+
+#EXTINF:-1,HBO Signature
+http://ift.tt/1H4lU88
