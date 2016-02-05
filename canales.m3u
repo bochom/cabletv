@@ -486,7 +486,7 @@ http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-0,700-HBO
-http://27.254.84.3:1935/live/tdnhbo.stream/chengye.m3u8
+rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
 #EXTINF:-0,702-HBO 2
 http://31.220.41.107:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
 #EXTINF:-0,704-HBO FAMILY
