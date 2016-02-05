@@ -485,20 +485,3 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,HBO
-http://iptv.latino-webtv.com/mariocs.php?canal=HBOLASD&cm=385&f=mariocs.m3u8
-
-#EXTINF:-1,HBO 2
-http://iptv.latino-webtv.com/mariocs.php?canal=HBO2SD&cm=365&f=mariocs.m3u8
-
-#EXTINF:-1,HBO Plus
-http://iptv.latino-webtv.com/mariocs.php?canal=HBOPlusLASD&cm=453&f=mariocs.m3u8
-
-#EXTINF:-1,HBO Plus 2
-http://iptv.latino-webtv.com/mariocs.php?canal=HBOPus2LASD&cm=369&f=mariocs.m3u8
-
-#EXTINF:-1,HBO Family
-http://iptv.latino-webtv.com/mariocs.php?canal=HBOFamilyLASD&cm=449&f=mariocs.m3u8
-
-#EXTINF:-1,HBO Signature
-http://iptv.latino-webtv.com/mariocs.php?canal=HBOSignatureLASD&cm=451&f=mariocs.m3u8
