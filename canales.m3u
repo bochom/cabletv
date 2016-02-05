@@ -485,4 +485,14 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-0,700-HBO
+http://66.90.93.26:1935/live/canal041.stream/chunklist_w1405770527.m3u8?username=fher1&password=iptv
+#EXTINF:-0,702-HBO 2
+http://31.220.41.107:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
+#EXTINF:-0,704-HBO FAMILY
+http://31.220.40.108:80/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
+#EXTINF:-0,706-HBO PLUS
+http://31.220.40.100:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
+#EXTINF:-0,708-HBO SIGNATURE
+http://31.220.40.100:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
 
