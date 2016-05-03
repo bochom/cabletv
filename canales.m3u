@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, -Panama-
-#EXTINF:-1 tvg-logo="http://static1.tvn-2.com/static/BB3HTML/images/tvn-2-logo.png" group-title="Panama", TVN-2
+
+#EXTINF:-1 tvg-logo="http://static1.tvn-2.com/static/BB3HTML/images/tvn-2-logo.png" group-title="Panama",TVN 2
 http://kalseglive-a.akamaihd.net:80/dc-0/m/pa-live-publish4/kLive/smil:0_6gox09ym_all.smil/playlist.m3u8
+
 #EXTINF:0,-Nacionales-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
