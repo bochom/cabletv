@@ -2,5 +2,14 @@
 #EXTINF:-1 tvg-logo="https://www.tvn-2.com/static/BB3HTML/images/tvnplay-brand1-hdpi.png?hash=87158c64a5f6ea83a68f7b7a0649721e" group-title="Panama",TVN-2
 https://ssai.ooyala.com/hls/delta/tvn-bc-live-delivery.akamaized.net/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="Panama",Telemetro
-https://us-b4-p-e-zx8.cdn.mdstrm.com/live-stream/5d88dd2229b0890723df2165/publish/media_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Samurai X" tvg-logo="https://1.bp.blogspot.com/-hukYWybPDFc/Xp6esHRyPZI/AAAAAAAABxk/u84AzfgYStoApHkD5QUaDvgjqasI6SEqQCLcBGAsYHQ/s200/Samurai%2BX.png" group-title="CANALES 24/7",24/7 Samurai X 
+http://tvpremiumhd.club/lista-gratuita/172019/tv/live.php?id=37836
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE",HBO 
+http://tvpremiumhd.club/lista-gratuita/172019/tv/live.php?id=1039
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE",HBO 
+#EXTINF:-1 tvg-id="Fox.co" tvg-name="CINE - Fox Sur" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png" group-title="CINE",Fox Sur
+http://tvpremiumhd.club/lista-gratuita/172019/tv/live.php?id=1454
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - Fox Premium Series" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png" group-title="CINE",Fox Premium Series
+http://tvpremiumhd.club/lista-gratuita/172019/tv/live.php?id=26737
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - Fox Premium Movies" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png" group-title="CINE",Fox Premium Movies
+http://tvpremiumhd.club/lista-gratuita/172019/tv/live.php?id=26738
