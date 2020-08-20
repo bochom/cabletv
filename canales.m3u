@@ -1,3 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Panama",TVN-2
+#EXTINF:-1 tvg-logo="https://www.tvn-2.com/static/BB3HTML/images/tvnplay-brand1-hdpi.png?hash=87158c64a5f6ea83a68f7b7a0649721e" group-title="Panama",TVN-2
 https://ssai.ooyala.com/hls/delta/tvn-bc-live-delivery.akamaized.net/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="Panama",Telemetro
+https://us-b4-p-e-zx8.cdn.mdstrm.com/live-stream/5d88dd2229b0890723df2165/publish/media_2000.m3u8
